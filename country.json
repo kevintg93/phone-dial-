@@ -1,0 +1,1286 @@
+[
+    {
+     "Country ": "A"
+    },
+    {
+     "Country ": "Afghanistan ",
+     "Country code": "AF",
+     "International dialing": "+93"
+    },
+    {
+     "Country ": "Albania ",
+     "Country code": "AL",
+     "International dialing": "+355"
+    },
+    {
+     "Country ": "Algeria ",
+     "Country code": "DZ",
+     "International dialing": "+213"
+    },
+    {
+     "Country ": "American Samoa",
+     "Country code": "AS",
+     "International dialing": "+1-684"
+    },
+    {
+     "Country ": "Andorra, Principality of ",
+     "Country code": "AD",
+     "International dialing": "+376"
+    },
+    {
+     "Country ": "Angola",
+     "Country code": "AO",
+     "International dialing": "+244"
+    },
+    {
+     "Country ": "Anguilla ",
+     "Country code": "AI",
+     "International dialing": "+1-264"
+    },
+    {
+     "Country ": "Antarctica",
+     "Country code": "AQ",
+     "International dialing": "+672"
+    },
+    {
+     "Country ": "Antigua and Barbuda",
+     "Country code": "AG",
+     "International dialing": "+1-268"
+    },
+    {
+     "Country ": "Argentina ",
+     "Country code": "AR",
+     "International dialing": "+54"
+    },
+    {
+     "Country ": "Armenia",
+     "Country code": "AM",
+     "International dialing": "+374"
+    },
+    {
+     "Country ": "Aruba",
+     "Country code": "AW",
+     "International dialing": "+297"
+    },
+    {
+     "Country ": "Australia",
+     "Country code": "AU",
+     "International dialing": "+61"
+    },
+    {
+     "Country ": "Austria",
+     "Country code": "AT",
+     "International dialing": "+43"
+    },
+    {
+     "Country ": "Azerbaijan or Azerbaidjan (Former Azerbaijan Soviet Socialist Republic)",
+     "Country code": "AZ",
+     "International dialing": "+994"
+    },
+    {
+     "Country ": "B"
+    },
+    {
+     "Country ": "Bahamas, Commonwealth of The",
+     "Country code": "BS",
+     "International dialing": "+1-242"
+    },
+    {
+     "Country ": "Bahrain, Kingdom of (Former Dilmun)",
+     "Country code": "BH",
+     "International dialing": "+973"
+    },
+    {
+     "Country ": "Bangladesh (Former East Pakistan)",
+     "Country code": "BD",
+     "International dialing": "+880"
+    },
+    {
+     "Country ": "Barbados ",
+     "Country code": "BB",
+     "International dialing": "+1-246"
+    },
+    {
+     "Country ": "Belarus (Former Belorussian [Byelorussian] Soviet Socialist Republic)",
+     "Country code": "BY",
+     "International dialing": "+375"
+    },
+    {
+     "Country ": "Belgium ",
+     "Country code": "BE",
+     "International dialing": "+32"
+    },
+    {
+     "Country ": "Belize (Former British Honduras)",
+     "Country code": "BZ",
+     "International dialing": "+501"
+    },
+    {
+     "Country ": "Benin (Former Dahomey)",
+     "Country code": "BJ",
+     "International dialing": "+229"
+    },
+    {
+     "Country ": "Bermuda ",
+     "Country code": "BM",
+     "International dialing": "+1-441"
+    },
+    {
+     "Country ": "Bhutan, Kingdom of",
+     "Country code": "BT",
+     "International dialing": "+975"
+    },
+    {
+     "Country ": "Bolivia ",
+     "Country code": "BO",
+     "International dialing": "+591"
+    },
+    {
+     "Country ": "Bosnia and Herzegovina ",
+     "Country code": "BA",
+     "International dialing": "+387"
+    },
+    {
+     "Country ": "Botswana (Former Bechuanaland)",
+     "Country code": "BW",
+     "International dialing": "+267"
+    },
+    {
+     "Country ": "Bouvet Island (Territory of Norway)",
+     "Country code": "BV"
+    },
+    {
+     "Country ": "Brazil ",
+     "Country code": "BR",
+     "International dialing": "+55"
+    },
+    {
+     "Country ": "British Indian Ocean Territory (BIOT)",
+     "Country code": "IO"
+    },
+    {
+     "Country ": "Brunei (Negara Brunei Darussalam) ",
+     "Country code": "BN",
+     "International dialing": "+673"
+    },
+    {
+     "Country ": "Bulgaria ",
+     "Country code": "BG",
+     "International dialing": "+359"
+    },
+    {
+     "Country ": "Burkina Faso (Former Upper Volta)",
+     "Country code": "BF",
+     "International dialing": "+226"
+    },
+    {
+     "Country ": "Burundi (Former Urundi)",
+     "Country code": "BI",
+     "International dialing": "+257"
+    },
+    {
+     "Country ": "C"
+    },
+    {
+     "Country ": "Cambodia, Kingdom of (Former Khmer Republic, Kampuchea Republic)",
+     "Country code": "KH",
+     "International dialing": "+855"
+    },
+    {
+     "Country ": "Cameroon (Former French Cameroon)",
+     "Country code": "CM",
+     "International dialing": "+237"
+    },
+    {
+     "Country ": "Canada ",
+     "Country code": "CA",
+     "International dialing": "+1"
+    },
+    {
+     "Country ": "Cape Verde ",
+     "Country code": "CV",
+     "International dialing": "+238"
+    },
+    {
+     "Country ": "Cayman Islands ",
+     "Country code": "KY",
+     "International dialing": "+1-345"
+    },
+    {
+     "Country ": "Central African Republic ",
+     "Country code": "CF",
+     "International dialing": "+236"
+    },
+    {
+     "Country ": "Chad ",
+     "Country code": "TD",
+     "International dialing": "+235"
+    },
+    {
+     "Country ": "Chile ",
+     "Country code": "CL",
+     "International dialing": "+56"
+    },
+    {
+     "Country ": "China ",
+     "Country code": "CN",
+     "International dialing": "+86"
+    },
+    {
+     "Country ": "Christmas Island ",
+     "Country code": "CX",
+     "International dialing": "+53"
+    },
+    {
+     "Country ": "Cocos (Keeling) Islands ",
+     "Country code": "CC",
+     "International dialing": "+61"
+    },
+    {
+     "Country ": "Colombia ",
+     "Country code": "CO",
+     "International dialing": "+57"
+    },
+    {
+     "Country ": "Comoros, Union of the ",
+     "Country code": "KM",
+     "International dialing": "+269"
+    },
+    {
+     "Country ": "Congo, Democratic Republic of the (Former Zaire) ",
+     "Country code": "CD",
+     "International dialing": "+243"
+    },
+    {
+     "Country ": "Congo, Republic of the",
+     "Country code": "CG",
+     "International dialing": "+242"
+    },
+    {
+     "Country ": "Cook Islands (Former Harvey Islands)",
+     "Country code": "CK",
+     "International dialing": "+682"
+    },
+    {
+     "Country ": "Costa Rica ",
+     "Country code": "CR",
+     "International dialing": "+506"
+    },
+    {
+     "Country ": "Cote D'Ivoire (Former Ivory Coast) ",
+     "Country code": "CI",
+     "International dialing": "+225"
+    },
+    {
+     "Country ": "Croatia (Hrvatska) ",
+     "Country code": "HR",
+     "International dialing": "+385"
+    },
+    {
+     "Country ": "Cuba ",
+     "Country code": "CU",
+     "International dialing": "+53"
+    },
+    {
+     "Country ": "Cyprus ",
+     "Country code": "CY",
+     "International dialing": "+357"
+    },
+    {
+     "Country ": "Czech Republic",
+     "Country code": "CZ",
+     "International dialing": "+420"
+    },
+    {
+     "Country ": "Czechoslavakia (Former) See CZ Czech Republic or Slovakia",
+     "Country code": "CS"
+    },
+    {
+     "Country ": "D"
+    },
+    {
+     "Country ": "Denmark ",
+     "Country code": "DK",
+     "International dialing": "+45"
+    },
+    {
+     "Country ": "Djibouti (Former French Territory of the Afars and Issas, French Somaliland)",
+     "Country code": "DJ",
+     "International dialing": "+253"
+    },
+    {
+     "Country ": "Dominica ",
+     "Country code": "DM",
+     "International dialing": "+1-767"
+    },
+    {
+     "Country ": "Dominican Republic ",
+     "Country code": "DO",
+     "International dialing": "+1-809 and +1-829  "
+    },
+    {
+     "Country ": "E"
+    },
+    {
+     "Country ": "East Timor (Former Portuguese Timor)",
+     "Country code": "TP",
+     "International dialing": "+670"
+    },
+    {
+     "Country ": "Ecuador ",
+     "Country code": "EC",
+     "International dialing": "+593 "
+    },
+    {
+     "Country ": "Egypt (Former United Arab Republic - with Syria)",
+     "Country code": "EG",
+     "International dialing": "+20"
+    },
+    {
+     "Country ": "El Salvador ",
+     "Country code": "SV",
+     "International dialing": "+503"
+    },
+    {
+     "Country ": "Equatorial Guinea (Former Spanish Guinea)",
+     "Country code": "GQ",
+     "International dialing": "+240"
+    },
+    {
+     "Country ": "Eritrea (Former Eritrea Autonomous Region in Ethiopia)",
+     "Country code": "ER",
+     "International dialing": "+291"
+    },
+    {
+     "Country ": "Estonia (Former Estonian Soviet Socialist Republic)",
+     "Country code": "EE",
+     "International dialing": "+372"
+    },
+    {
+     "Country ": "Ethiopia (Former Abyssinia, Italian East Africa)",
+     "Country code": "ET",
+     "International dialing": "+251"
+    },
+    {
+     "Country ": "F"
+    },
+    {
+     "Country ": "Falkland Islands (Islas Malvinas) ",
+     "Country code": "FK",
+     "International dialing": "+500"
+    },
+    {
+     "Country ": "Faroe Islands ",
+     "Country code": "FO",
+     "International dialing": "+298"
+    },
+    {
+     "Country ": "Fiji ",
+     "Country code": "FJ",
+     "International dialing": "+679"
+    },
+    {
+     "Country ": "Finland ",
+     "Country code": "FI",
+     "International dialing": "+358"
+    },
+    {
+     "Country ": "France ",
+     "Country code": "FR",
+     "International dialing": "+33"
+    },
+    {
+     "Country ": "French Guiana or French Guyana ",
+     "Country code": "GF",
+     "International dialing": "+594"
+    },
+    {
+     "Country ": "French Polynesia (Former French Colony of Oceania)",
+     "Country code": "PF",
+     "International dialing": "+689"
+    },
+    {
+     "Country ": "French Southern Territories and Antarctic Lands ",
+     "Country code": "TF"
+    },
+    {
+     "Country ": "G"
+    },
+    {
+     "Country ": "Gabon (Gabonese Republic)",
+     "Country code": "GA",
+     "International dialing": "+241"
+    },
+    {
+     "Country ": "Gambia, The ",
+     "Country code": "GM",
+     "International dialing": "+220"
+    },
+    {
+     "Country ": "Georgia (Former Georgian Soviet Socialist Republic)",
+     "Country code": "GE",
+     "International dialing": "+995"
+    },
+    {
+     "Country ": "Germany ",
+     "Country code": "DE",
+     "International dialing": "+49"
+    },
+    {
+     "Country ": "Ghana (Former Gold Coast)",
+     "Country code": "GH",
+     "International dialing": "+233"
+    },
+    {
+     "Country ": "Gibraltar ",
+     "Country code": "GI",
+     "International dialing": "+350"
+    },
+    {
+     "Country ": "Great Britain (United Kingdom) ",
+     "Country code": "GB"
+    },
+    {
+     "Country ": "Greece ",
+     "Country code": "GR",
+     "International dialing": "+30"
+    },
+    {
+     "Country ": "Greenland ",
+     "Country code": "GL",
+     "International dialing": "+299"
+    },
+    {
+     "Country ": "Grenada ",
+     "Country code": "GD",
+     "International dialing": "+1-473"
+    },
+    {
+     "Country ": "Guadeloupe",
+     "Country code": "GP",
+     "International dialing": "+590"
+    },
+    {
+     "Country ": "Guam",
+     "Country code": "GU",
+     "International dialing": "+1-671"
+    },
+    {
+     "Country ": "Guatemala ",
+     "Country code": "GT",
+     "International dialing": "+502"
+    },
+    {
+     "Country ": "Guinea (Former French Guinea)",
+     "Country code": "GN",
+     "International dialing": "+224"
+    },
+    {
+     "Country ": "Guinea-Bissau (Former Portuguese Guinea)",
+     "Country code": "GW",
+     "International dialing": "+245"
+    },
+    {
+     "Country ": "Guyana (Former British Guiana)",
+     "Country code": "GY",
+     "International dialing": "+592"
+    },
+    {
+     "Country ": "H"
+    },
+    {
+     "Country ": "Haiti ",
+     "Country code": "HT",
+     "International dialing": "+509"
+    },
+    {
+     "Country ": "Heard Island and McDonald Islands (Territory of Australia)",
+     "Country code": "HM"
+    },
+    {
+     "Country ": "Holy See (Vatican City State)",
+     "Country code": "VA"
+    },
+    {
+     "Country ": "Honduras ",
+     "Country code": "HN",
+     "International dialing": "+504"
+    },
+    {
+     "Country ": "Hong Kong ",
+     "Country code": "HK",
+     "International dialing": "+852"
+    },
+    {
+     "Country ": "Hungary ",
+     "Country code": "HU",
+     "International dialing": "+36"
+    },
+    {
+     "Country ": "I"
+    },
+    {
+     "Country ": "Iceland ",
+     "Country code": "IS",
+     "International dialing": "+354"
+    },
+    {
+     "Country ": "India ",
+     "Country code": "IN",
+     "International dialing": "+91"
+    },
+    {
+     "Country ": "Indonesia (Former Netherlands East Indies; Dutch East Indies)",
+     "Country code": "ID",
+     "International dialing": "+62"
+    },
+    {
+     "Country ": "Iran, Islamic Republic of",
+     "Country code": "IR",
+     "International dialing": "+98"
+    },
+    {
+     "Country ": "Iraq ",
+     "Country code": "IQ",
+     "International dialing": "+964"
+    },
+    {
+     "Country ": "Ireland ",
+     "Country code": "IE",
+     "International dialing": "+353"
+    },
+    {
+     "Country ": "Israel ",
+     "Country code": "IL",
+     "International dialing": "+972"
+    },
+    {
+     "Country ": "Italy ",
+     "Country code": "IT",
+     "International dialing": "+39"
+    },
+    {
+     "Country ": "J"
+    },
+    {
+     "Country ": "Jamaica ",
+     "Country code": "JM",
+     "International dialing": "+1-876"
+    },
+    {
+     "Country ": "Japan ",
+     "Country code": "JP",
+     "International dialing": "+81"
+    },
+    {
+     "Country ": "Jordan (Former Transjordan)",
+     "Country code": "JO",
+     "International dialing": "+962"
+    },
+    {
+     "Country ": "K"
+    },
+    {
+     "Country ": "Kazakstan or Kazakhstan (Former Kazakh Soviet Socialist Republic)",
+     "Country code": "KZ",
+     "International dialing": "+7"
+    },
+    {
+     "Country ": "Kenya (Former British East Africa)",
+     "Country code": "KE",
+     "International dialing": "+254"
+    },
+    {
+     "Country ": "Kiribati (Pronounced keer-ree-bahss) (Former Gilbert Islands)",
+     "Country code": "KI",
+     "International dialing": "+686"
+    },
+    {
+     "Country ": "Korea, Democratic People's Republic of (North Korea)",
+     "Country code": "KP",
+     "International dialing": "+850"
+    },
+    {
+     "Country ": "Korea, Republic of (South Korea) ",
+     "Country code": "KR",
+     "International dialing": "+82"
+    },
+    {
+     "Country ": "Kuwait ",
+     "Country code": "KW",
+     "International dialing": "+965"
+    },
+    {
+     "Country ": "Kyrgyzstan (Kyrgyz Republic) (Former Kirghiz Soviet Socialist Republic)",
+     "Country code": "KG",
+     "International dialing": "+996"
+    },
+    {
+     "Country ": "L"
+    },
+    {
+     "Country ": "Lao People's Democratic Republic (Laos)",
+     "Country code": "LA",
+     "International dialing": "+856"
+    },
+    {
+     "Country ": "Latvia (Former Latvian Soviet Socialist Republic)",
+     "Country code": "LV",
+     "International dialing": "+371"
+    },
+    {
+     "Country ": "Lebanon ",
+     "Country code": "LB",
+     "International dialing": "+961"
+    },
+    {
+     "Country ": "Lesotho (Former Basutoland)",
+     "Country code": "LS",
+     "International dialing": "+266"
+    },
+    {
+     "Country ": "Liberia ",
+     "Country code": "LR",
+     "International dialing": "+231"
+    },
+    {
+     "Country ": "Libya (Libyan Arab Jamahiriya)",
+     "Country code": "LY",
+     "International dialing": "+218"
+    },
+    {
+     "Country ": "Liechtenstein ",
+     "Country code": "LI",
+     "International dialing": "+423"
+    },
+    {
+     "Country ": "Lithuania (Former Lithuanian Soviet Socialist Republic)",
+     "Country code": "LT",
+     "International dialing": "+370"
+    },
+    {
+     "Country ": "Luxembourg ",
+     "Country code": "LU",
+     "International dialing": "+352"
+    },
+    {
+     "Country ": "M"
+    },
+    {
+     "Country ": "Macau ",
+     "Country code": "MO",
+     "International dialing": "+853"
+    },
+    {
+     "Country ": "Macedonia, The Former Yugoslav Republic of",
+     "Country code": "MK",
+     "International dialing": "+389"
+    },
+    {
+     "Country ": "Madagascar (Former Malagasy Republic)",
+     "Country code": "MG",
+     "International dialing": "+261"
+    },
+    {
+     "Country ": "Malawi (Former British Central African Protectorate, Nyasaland)",
+     "Country code": "MW",
+     "International dialing": "+265"
+    },
+    {
+     "Country ": "Malaysia ",
+     "Country code": "MY",
+     "International dialing": "+60"
+    },
+    {
+     "Country ": "Maldives ",
+     "Country code": "MV",
+     "International dialing": "+960"
+    },
+    {
+     "Country ": "Mali (Former French Sudan and Sudanese Republic) ",
+     "Country code": "ML",
+     "International dialing": "+223"
+    },
+    {
+     "Country ": "Malta ",
+     "Country code": "MT",
+     "International dialing": "+356"
+    },
+    {
+     "Country ": "Marshall Islands (Former Marshall Islands District - Trust Territory of the Pacific Islands)",
+     "Country code": "MH",
+     "International dialing": "+692"
+    },
+    {
+     "Country ": "Martinique (French) ",
+     "Country code": "MQ",
+     "International dialing": "+596"
+    },
+    {
+     "Country ": "Mauritania ",
+     "Country code": "MR",
+     "International dialing": "+222"
+    },
+    {
+     "Country ": "Mauritius ",
+     "Country code": "MU",
+     "International dialing": "+230"
+    },
+    {
+     "Country ": "Mayotte (Territorial Collectivity of Mayotte)",
+     "Country code": "YT",
+     "International dialing": "+269"
+    },
+    {
+     "Country ": "Mexico ",
+     "Country code": "MX",
+     "International dialing": "+52"
+    },
+    {
+     "Country ": "Micronesia, Federated States of (Former Ponape, Truk, and Yap Districts - Trust Territory of the Pacific Islands)",
+     "Country code": "FM",
+     "International dialing": "+691"
+    },
+    {
+     "Country ": "Moldova, Republic of",
+     "Country code": "MD",
+     "International dialing": "+373"
+    },
+    {
+     "Country ": "Monaco, Principality of",
+     "Country code": "MC",
+     "International dialing": "+377"
+    },
+    {
+     "Country ": "Mongolia (Former Outer Mongolia)",
+     "Country code": "MN",
+     "International dialing": "+976"
+    },
+    {
+     "Country ": "Montserrat ",
+     "Country code": "MS",
+     "International dialing": "+1-664"
+    },
+    {
+     "Country ": "Morocco ",
+     "Country code": "MA",
+     "International dialing": "+212"
+    },
+    {
+     "Country ": "Mozambique (Former Portuguese East Africa)",
+     "Country code": "MZ",
+     "International dialing": "+258"
+    },
+    {
+     "Country ": "Myanmar, Union of (Former Burma)",
+     "Country code": "MM",
+     "International dialing": "+95"
+    },
+    {
+     "Country ": "N"
+    },
+    {
+     "Country ": "Namibia (Former German Southwest Africa, South-West Africa)",
+     "Country code": "NA",
+     "International dialing": "+264"
+    },
+    {
+     "Country ": "Nauru (Former Pleasant Island)",
+     "Country code": "NR",
+     "International dialing": "+674"
+    },
+    {
+     "Country ": "Nepal ",
+     "Country code": "NP",
+     "International dialing": "+977"
+    },
+    {
+     "Country ": "Netherlands ",
+     "Country code": "NL",
+     "International dialing": "+31"
+    },
+    {
+     "Country ": "Netherlands Antilles (Former Curacao and Dependencies)",
+     "Country code": "AN",
+     "International dialing": "+599"
+    },
+    {
+     "Country ": "New Caledonia ",
+     "Country code": "NC",
+     "International dialing": "+687"
+    },
+    {
+     "Country ": "New Zealand (Aotearoa) ",
+     "Country code": "NZ",
+     "International dialing": "+64"
+    },
+    {
+     "Country ": "Nicaragua ",
+     "Country code": "NI",
+     "International dialing": "+505"
+    },
+    {
+     "Country ": "Niger ",
+     "Country code": "NE",
+     "International dialing": "+227"
+    },
+    {
+     "Country ": "Nigeria ",
+     "Country code": "NG",
+     "International dialing": "+234"
+    },
+    {
+     "Country ": "Niue (Former Savage Island)",
+     "Country code": "NU",
+     "International dialing": "+683"
+    },
+    {
+     "Country ": "Norfolk Island ",
+     "Country code": "NF",
+     "International dialing": "+672"
+    },
+    {
+     "Country ": "Northern Mariana Islands (Former Mariana Islands District - Trust Territory of the Pacific Islands)",
+     "Country code": "MP",
+     "International dialing": "+1-670"
+    },
+    {
+     "Country ": "Norway ",
+     "Country code": "NO",
+     "International dialing": "+47"
+    },
+    {
+     "Country ": "O"
+    },
+    {
+     "Country ": "Oman, Sultanate of (Former Muscat and Oman)",
+     "Country code": "OM",
+     "International dialing": "+968"
+    },
+    {
+     "Country ": "P"
+    },
+    {
+     "Country ": "Pakistan (Former West Pakistan)",
+     "Country code": "PK",
+     "International dialing": "+92"
+    },
+    {
+     "Country ": "Palau (Former Palau District - Trust Terriroty of the Pacific Islands)",
+     "Country code": "PW",
+     "International dialing": "+680"
+    },
+    {
+     "Country ": "Palestinian State (Proposed)",
+     "Country code": "PS",
+     "International dialing": "+970"
+    },
+    {
+     "Country ": "Panama ",
+     "Country code": "PA",
+     "International dialing": "+507"
+    },
+    {
+     "Country ": "Papua New Guinea (Former Territory of Papua and New Guinea)",
+     "Country code": "PG",
+     "International dialing": "+675"
+    },
+    {
+     "Country ": "Paraguay ",
+     "Country code": "PY",
+     "International dialing": "+595"
+    },
+    {
+     "Country ": "Peru ",
+     "Country code": "PE",
+     "International dialing": "+51"
+    },
+    {
+     "Country ": "Philippines ",
+     "Country code": "PH",
+     "International dialing": "+63"
+    },
+    {
+     "Country ": "Pitcairn Island",
+     "Country code": "PN"
+    },
+    {
+     "Country ": "Poland ",
+     "Country code": "PL",
+     "International dialing": "+48"
+    },
+    {
+     "Country ": "Portugal ",
+     "Country code": "PT",
+     "International dialing": "+351"
+    },
+    {
+     "Country ": "Puerto Rico ",
+     "Country code": "PR",
+     "International dialing": "+1-787 or +1-939"
+    },
+    {
+     "Country ": "Q"
+    },
+    {
+     "Country ": "Qatar, State of ",
+     "Country code": "QA",
+     "International dialing": "+974 "
+    },
+    {
+     "Country ": "R"
+    },
+    {
+     "Country ": "Reunion (French) (Former Bourbon Island)",
+     "Country code": "RE",
+     "International dialing": "+262"
+    },
+    {
+     "Country ": "Romania ",
+     "Country code": "RO",
+     "International dialing": "+40"
+    },
+    {
+     "Country ": "Russia - USSR (Former Russian Empire, Union of Soviet Socialist Republics, Russian Soviet Federative Socialist Republic) Now RU - Russian Federation",
+     "Country code": "SU"
+    },
+    {
+     "Country ": "Russian Federation ",
+     "Country code": "RU",
+     "International dialing": "+7"
+    },
+    {
+     "Country ": "Rwanda (Rwandese Republic) (Former Ruanda)",
+     "Country code": "RW",
+     "International dialing": "+250"
+    },
+    {
+     "Country ": "S"
+    },
+    {
+     "Country ": "Saint Helena ",
+     "Country code": "SH",
+     "International dialing": "+290"
+    },
+    {
+     "Country ": "Saint Kitts and Nevis (Former Federation of Saint Christopher and Nevis)",
+     "Country code": "KN",
+     "International dialing": "+1-869"
+    },
+    {
+     "Country ": "Saint Lucia ",
+     "Country code": "LC",
+     "International dialing": "+1-758"
+    },
+    {
+     "Country ": "Saint Pierre and Miquelon ",
+     "Country code": "PM",
+     "International dialing": "+508"
+    },
+    {
+     "Country ": "Saint Vincent and the Grenadines ",
+     "Country code": "VC",
+     "International dialing": "+1-784"
+    },
+    {
+     "Country ": "Samoa (Former Western Samoa)",
+     "Country code": "WS",
+     "International dialing": "+685"
+    },
+    {
+     "Country ": "San Marino ",
+     "Country code": "SM",
+     "International dialing": "+378"
+    },
+    {
+     "Country ": "Sao Tome and Principe ",
+     "Country code": "ST",
+     "International dialing": "+239"
+    },
+    {
+     "Country ": "Saudi Arabia ",
+     "Country code": "SA",
+     "International dialing": "+966"
+    },
+    {
+     "Country ": "Serbia, Republic of",
+     "Country code": "RS"
+    },
+    {
+     "Country ": "Senegal ",
+     "Country code": "SN",
+     "International dialing": "+221"
+    },
+    {
+     "Country ": "Seychelles ",
+     "Country code": "SC",
+     "International dialing": "+248"
+    },
+    {
+     "Country ": "Sierra Leone ",
+     "Country code": "SL",
+     "International dialing": "+232"
+    },
+    {
+     "Country ": "Singapore ",
+     "Country code": "SG",
+     "International dialing": "+65"
+    },
+    {
+     "Country ": "Slovakia",
+     "Country code": "SK",
+     "International dialing": "+421"
+    },
+    {
+     "Country ": "Slovenia ",
+     "Country code": "SI",
+     "International dialing": "+386"
+    },
+    {
+     "Country ": "Solomon Islands (Former British Solomon Islands)",
+     "Country code": "SB",
+     "International dialing": "+677"
+    },
+    {
+     "Country ": "Somalia (Former Somali Republic, Somali Democratic Republic) ",
+     "Country code": "SO",
+     "International dialing": "+252"
+    },
+    {
+     "Country ": "South Africa (Former Union of South Africa)",
+     "Country code": "ZA",
+     "International dialing": "+27"
+    },
+    {
+     "Country ": "South Georgia and the South Sandwich Islands",
+     "Country code": "GS"
+    },
+    {
+     "Country ": "Spain ",
+     "Country code": "ES",
+     "International dialing": "+34"
+    },
+    {
+     "Country ": "Sri Lanka (Former Serendib, Ceylon) ",
+     "Country code": "LK",
+     "International dialing": "+94"
+    },
+    {
+     "Country ": "Sudan (Former Anglo-Egyptian Sudan) ",
+     "Country code": "SD",
+     "International dialing": "+249"
+    },
+    {
+     "Country ": "Suriname (Former Netherlands Guiana, Dutch Guiana)",
+     "Country code": "SR",
+     "International dialing": "+597"
+    },
+    {
+     "Country ": "Svalbard (Spitzbergen) and Jan Mayen Islands ",
+     "Country code": "SJ"
+    },
+    {
+     "Country ": "Swaziland, Kingdom of ",
+     "Country code": "SZ",
+     "International dialing": "+268"
+    },
+    {
+     "Country ": "Sweden ",
+     "Country code": "SE",
+     "International dialing": "+46"
+    },
+    {
+     "Country ": "Switzerland ",
+     "Country code": "CH",
+     "International dialing": "+41"
+    },
+    {
+     "Country ": "Syria (Syrian Arab Republic) (Former United Arab Republic - with Egypt)",
+     "Country code": "SY",
+     "International dialing": "+963"
+    },
+    {
+     "Country ": "T"
+    },
+    {
+     "Country ": "Taiwan (Former Formosa)",
+     "Country code": "TW",
+     "International dialing": "+886"
+    },
+    {
+     "Country ": "Tajikistan (Former Tajik Soviet Socialist Republic)",
+     "Country code": "TJ",
+     "International dialing": "+992"
+    },
+    {
+     "Country ": "Tanzania, United Republic of (Former United Republic of Tanganyika and Zanzibar)",
+     "Country code": "TZ",
+     "International dialing": "+255"
+    },
+    {
+     "Country ": "Thailand (Former Siam)",
+     "Country code": "TH",
+     "International dialing": "+66"
+    },
+    {
+     "Country ": "Togo (Former French Togoland)",
+     "Country code": "TG"
+    },
+    {
+     "Country ": "Tokelau ",
+     "Country code": "TK",
+     "International dialing": "+690"
+    },
+    {
+     "Country ": "Tonga, Kingdom of (Former Friendly Islands)",
+     "Country code": "TO",
+     "International dialing": "+676"
+    },
+    {
+     "Country ": "Trinidad and Tobago ",
+     "Country code": "TT",
+     "International dialing": "+1-868"
+    },
+    {
+     "Country ": "Tromelin Island ",
+     "Country code": "TE"
+    },
+    {
+     "Country ": "Tunisia ",
+     "Country code": "TN",
+     "International dialing": "+216"
+    },
+    {
+     "Country ": "Turkey ",
+     "Country code": "TR",
+     "International dialing": "+90"
+    },
+    {
+     "Country ": "Turkmenistan (Former Turkmen Soviet Socialist Republic)",
+     "Country code": "TM",
+     "International dialing": "+993"
+    },
+    {
+     "Country ": "Turks and Caicos Islands ",
+     "Country code": "TC",
+     "International dialing": "+1-649"
+    },
+    {
+     "Country ": "Tuvalu (Former Ellice Islands)",
+     "Country code": "TV",
+     "International dialing": "+688"
+    },
+    {
+     "Country ": "U"
+    },
+    {
+     "Country ": "Uganda, Republic of",
+     "Country code": "UG",
+     "International dialing": "+256"
+    },
+    {
+     "Country ": "Ukraine (Former Ukrainian National Republic, Ukrainian State, Ukrainian Soviet Socialist Republic)",
+     "Country code": "UA",
+     "International dialing": "+380"
+    },
+    {
+     "Country ": "United Arab Emirates (UAE) (Former Trucial Oman, Trucial States)",
+     "Country code": "AE",
+     "International dialing": "+971"
+    },
+    {
+     "Country ": "United Kingdom (Great Britain \/ UK)",
+     "Country code": "GB",
+     "International dialing": "+44"
+    },
+    {
+     "Country ": "United States ",
+     "Country code": "US",
+     "International dialing": "+1"
+    },
+    {
+     "Country ": "United States Minor Outlying Islands ",
+     "Country code": "UM"
+    },
+    {
+     "Country ": "Uruguay, Oriental Republic of (Former Banda Oriental, Cisplatine Province)",
+     "Country code": "UY",
+     "International dialing": "+598"
+    },
+    {
+     "Country ": "Uzbekistan (Former UZbek Soviet Socialist Republic)",
+     "Country code": "UZ",
+     "International dialing": "+998"
+    },
+    {
+     "Country ": "V"
+    },
+    {
+     "Country ": "Vanuatu (Former New Hebrides)",
+     "Country code": "VU",
+     "International dialing": "+678"
+    },
+    {
+     "Country ": "Vatican City State (Holy See)",
+     "Country code": "VA",
+     "International dialing": "+418"
+    },
+    {
+     "Country ": "Venezuela ",
+     "Country code": "VE",
+     "International dialing": "+58"
+    },
+    {
+     "Country ": "Vietnam ",
+     "Country code": "VN",
+     "International dialing": "+84"
+    },
+    {
+     "Country ": "Virgin Islands, British ",
+     "Country code": "VI",
+     "International dialing": "+1-284"
+    },
+    {
+     "Country ": "Virgin Islands, United States (Former Danish West Indies) ",
+     "Country code": "VQ",
+     "International dialing": "+1-340"
+    },
+    {
+     "Country ": "W"
+    },
+    {
+     "Country ": "Wallis and Futuna Islands ",
+     "Country code": "WF",
+     "International dialing": "+681"
+    },
+    {
+     "Country ": "Western Sahara (Former Spanish Sahara)",
+     "Country code": "EH"
+    },
+    {
+     "Country ": "Y"
+    },
+    {
+     "Country ": "Yemen ",
+     "Country code": "YE",
+     "International dialing": "+967"
+    },
+    {
+     "Country ": "Yugoslavia ",
+     "Country code": "YU"
+    },
+    {
+     "Country ": "Zaire (Former Congo Free State, Belgian Congo, Congo\/Leopoldville, Congo\/Kinshasa, Zaire) Now CD - Congo, Democratic Republic of the ",
+     "Country code": "ZR"
+    },
+    {
+     "Country ": "Zambia, Republic of (Former Northern Rhodesia) ",
+     "Country code": "ZM",
+     "International dialing": "+260"
+    },
+    {
+     "Country ": "Zimbabwe, Republic of (Former Southern Rhodesia, Rhodesia) ",
+     "Country code": "ZW",
+     "International dialing": "+263"
+    }
+   ]

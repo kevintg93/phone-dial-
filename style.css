@@ -1,0 +1,59 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5rem;
+    width: 20rem;
+    border:1px solid black;
+    padding:1rem;
+    display:flex;
+    flex-direction: column;
+}
+.input-container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+}
+#country_code{
+    padding:.5rem;
+    text-align: center;
+}
+
+.digits{
+    margin-top:1rem;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;    
+}
+.digits button{
+    width:3rem;
+    margin:1rem;
+    padding:1rem;
+    text-align: center;
+    border:1px solid rgba(0, 0, 0, 0.39);
+    box-shadow: 2px  2px 2px rgba(0, 0, 0, 0.39);
+}
+.digits button:hover{
+    color: rgba(68, 59, 59, 0.562);
+    background-color:rgba(14, 12, 12, 0.068);
+}
+.digits button:target{
+    color: rgba(68, 59, 59, 0.733);
+    background-color:rgba(14, 12, 12, 0.418);
+}
+
+
+input{
+    height: 2rem;
+    box-shadow:inset 2px 2px 5px rgba(0, 0, 0, 0.308);
+}
+#Btncall {
+    width:50%;
+    padding:1rem;
+    margin:auto;
+    text-align: center;
+}
